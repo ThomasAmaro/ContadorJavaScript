@@ -1,0 +1,20 @@
+* {
+    background-color: rgb(0, 0, 0);
+}
+
+h3, h2 {
+    color: rgb(255, 255, 255)
+}
+
+#aumentar {
+    background-color: rgb(0, 255, 0);
+}
+
+#diminuir {
+    background-color: rgb(255, 0, 0);
+}
+
+#resetar {
+    color: rgb(255, 255, 255);
+    background-color: rgb(54, 53, 53);
+}
